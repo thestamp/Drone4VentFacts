@@ -1,8 +1,8 @@
 # Jekyll Configuration
 title: Drone4VentFacts
 description: A blog about Geography, Gaming and more
-baseurl: ""
-url: "https://thestamp.github.io/Drone4VentGeo/"
+baseurl: "/Drone4VentFacts"
+url: "https://thestamp.github.io/Drone4VentFacts"
 
 # Build settings
 markdown: kramdown
