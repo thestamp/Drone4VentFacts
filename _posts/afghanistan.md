@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "afghanistan"
-date: 2024-01-01 12:00:00 -0000
-permalink: welcome/
+date: 2026-02-18 12:00:00 -0000
+permalink: afghanistan/
 categories: [countries]
 tags: [afghanistan]
 excerpt: ""
