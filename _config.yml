@@ -1,8 +1,8 @@
 # Jekyll Configuration
-title: The Daily Developer
-description: A blog about development, technology, and problem-solving
+title: Drone4VentFacts
+description: A blog about Geography, Gaming and more
 baseurl: ""
-url: "https://thestamp.github.io/thedailydeveloper"
+url: "https://thestamp.github.io/Drone4VentGeo/"
 
 # Build settings
 markdown: kramdown
